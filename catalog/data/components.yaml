@@ -1,0 +1,13 @@
+title: Components
+lang: en
+components:
+  - id: web
+    label: Web
+  - id: "electronic-docs"
+    label: Electronic Documents
+  - id: software
+    label: Software
+  - id: "authoring-tool"
+    label: Authoring Tool
+  - id: none
+    label: ""

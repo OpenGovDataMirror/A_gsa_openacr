@@ -1,0 +1,21 @@
+title: Lorem Ipsum Accessibility Conformance Report
+product:
+  name: Lorem Ipsum
+  version: "1.1"
+  description: Fake text
+author:
+  email: cicero@example.com
+chapters:
+  success_criteria_level_a:
+    criteria:
+      - num: "1.1.1"
+        components:
+          - name: "none"
+      - num: "400.400.400"
+        components:
+          - name: "web"
+            adherence:
+              level: partially-supports
+              notes: Authors can satisfy 1.2.1 Audio-only and Video-only (Prerecorded) by using text on the same page.
+  hardware:
+    notes: "Lorem Ipsum is a web application. Hardware accessibility criteria is not applicable."
